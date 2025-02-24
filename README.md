@@ -9,7 +9,9 @@ Learning how to use [Reflex](https://reflex.dev) to make Python web apps!
 
 ## 📋 To-Do List
 - [ ] Set up the development environment
-- [ ] Follow the Reflex tutorial
+- [ ] Follow the Reflex tutorials
+    - [x] [chatapp](https://reflex.dev/docs/getting-started/chatapp-tutorial)
+    - [x] [grid](https://reflex.dev/docs/recipes/content/grid/)
 - [ ] Create a sample project
 - [ ] Experiment with Reflex components
 - [ ] Deploy the web app
